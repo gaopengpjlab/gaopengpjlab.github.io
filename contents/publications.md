@@ -29,6 +29,29 @@
   Z. Lin, D. Liu, R. Zhang, **P. Gao**, L. Qiu, H. Xiao, H. Qiu, C. Lin, W. Shao, K. Chen, J. Han, S. Huang, Y. Zhang, X. He, Y. Qiao, H. Li.  
   European Conference on Computer Vision (ECCV), 2024. [[Project]](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
 
+- **Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling**  
+  R. Zhang, R. Fang, W. Zhang, P. Gao, K. Li, J. Dai, Y. Qiao, **H. Li**.  
+  European Conference on Computer Vision (ECCV), 2022. [Project]
+
+- **CLIP-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling**  
+  R. Zhang, R. Fang, W. Zhang, P. Gao, K. Li, J. Dai, Y. Qiao, **H. Li**.  
+  European Conference on Computer Vision (ECCV), 2022. [Project]
+
+- **Container: Context Aggregation Networks**  
+  **P. Gao**, J. Lu, H. Li, R. Mottaghi, A. Aniruddha.  
+  Advances in Neural Information Processing Systems (NeurIPS) 2021.
+
+- **Fast Convergence of DETR with Spatially Modulated Co-Attention**  
+  **P. Gao**, M. Zhang, X. Wang, J. Dai, H. Li.  
+  International Conference on Computer Vision (ICCV), 2021. [Project]
+
+
+
+
+
+
+
+
 
 
 
