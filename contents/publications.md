@@ -1,3 +1,14 @@
+### Selected Preprints
+
+- **Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT**  
+  L. Zhuo, R. Du, H. Xiao, Y. Li, D. Liu, R. Huang, W. Liu, L. Zhao, F.-Y. Wang, Z. Ma, X. Luo, Z. Wang, K. Zhang, X. Zhu, S. Liu, X. Yue, D. Liu, W. Ouyang, Z. Liu, Y. Qiao, **H. Li**, **P. Gao**.  
+  arXiv:2406.18583, Technical Report, 2024. [Project]
+
+
+
+
+
+
 - <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
 
 - X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2023). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>In Revision.</strong>
