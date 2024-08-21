@@ -16,9 +16,20 @@
 
 
 ### Selected Publications
+
+- **LLaMA-Adapter: Efficient Fine-tuning of Large Language Models with Zero-initialized Attention**  
+  R. Zhang, J. Han, C. Liu, A. Zhou, P. Lu, Y. Qiao, H. Li, **P. Gao**.  
+  International Conference on Learning Representations (ICLR) 2024. [[Project]](https://github.com/OpenGVLab/LLaMA-Adapter)
+
+- **SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models**  
+  C. Liu, R. Zhang, L. Qiu, S. Huang, W. Lin, S. Zhao, S. Geng, Z. Lin, P. Jin, K. Zhang, W. Shao, C. Xu, C. He, J. He, H. Shao, P. Lu, H. Li, Y. Qiao, **P. Gao**. 
+  International Conference on Machine Learning (ICML), 2024. [[Project]](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
+
 - **SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**  
   Z. Lin, D. Liu, R. Zhang, **P. Gao**, L. Qiu, H. Xiao, H. Qiu, C. Lin, W. Shao, K. Chen, J. Han, S. Huang, Y. Zhang, X. He, Y. Qiao, H. Li.  
   European Conference on Computer Vision (ECCV), 2024. [[Project]](https://github.com/Alpha-VLLM/LLaMA2-Accessory)
+
+
 
 
 
