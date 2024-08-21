@@ -14,7 +14,17 @@
   arXiv:2406.18583, Technical Report, 2024. [[Project]](https://github.com/Alpha-VLLM/Lumina-T2X)
 
 
+
 ### Selected Publications
+- **SPHINX: The Joint Mixing of Weights, Tasks, and Visual Embeddings for Multi-modal Large Language Models**  
+  Z. Lin, D. Liu, R. Zhang, P. Gao, L. Qiu, H. Xiao, H. Qiu, C. Lin, W. Shao, K. Chen, J. Han, S. Huang, Y. Zhang, X. He, Y. Qiao, **H. Li**.  
+  European Conference on Computer Vision (ECCV), 2024. [Project]
+
+
+
+
+
+
 
 
 
