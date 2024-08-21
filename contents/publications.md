@@ -1,7 +1,7 @@
 ### Selected Preprints
 
 
-- **Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**
+- **Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**  
   Dongyang Liu, Shitian Zhao, Zhuo Le, Weifeng Lin, Qiao Yu, Hongsheng Li, **Peng Gao**.  
   arXiv:2408.02657, Technical Report, 2024. [[Project]](https://github.com/Alpha-VLLM/Lumina-mGPT)
 
