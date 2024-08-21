@@ -31,82 +31,36 @@
 
 - **CLIP-Adapter: Better Vision-Language Models with Feature Adapters**  
   **P. Gao**, S. Geng, R. Zhang, T. Ma, R. Fang, Y. Zhang, H. Li, Y. Qiao.  
-  International Journal of Computer Vision (IJCV), 2023. [[Project]]
+  International Journal of Computer Vision (IJCV), 2023. [[Project]](https://github.com/gaopengcuhk/CLIP-Adapter)
+
+- **Mimic before Reconstruct: Enhancing Masked Autoencoders with Feature Mimicking**  
+  **P. Gao**, Z. Lin, R. Zhang, R. Fang, H. Li, H. Li, Y. Qiao.  
+  International Journal of Computer Vision (IJCV), 2023. [[Project]](https://github.com/gaopengcuhk/CLIP-Adapter)
+
+- **ConvMAE: Masked Convolution Meets Masked Autoencoders**  
+  **P. Gao**, T. Ma, H. Li, J. Dai, Y. Qiao.  
+  Conference on Neural Information Processing Systems (NeurIPS), 2022. [[Project]](https://github.com/Alpha-VL/ConvMAE)
 
 - **Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling**  
-  R. Zhang, R. Fang, W. Zhang, P. Gao, K. Li, J. Dai, Y. Qiao, **H. Li**.  
-  European Conference on Computer Vision (ECCV), 2022. [[Project]]
+  R. Zhang, R. Fang, W. Zhang, **P. Gao**, K. Li, J. Dai, Y. Qiao, H. Li.  
+  European Conference on Computer Vision (ECCV), 2022. [[Project]](https://github.com/gaopengcuhk/Tip-Adapter)
 
 - **Container: Context Aggregation Networks**  
   **P. Gao**, J. Lu, H. Li, R. Mottaghi, A. Aniruddha.  
-  Advances in Neural Information Processing Systems (NeurIPS) 2021. [[Project]]
+  Advances in Neural Information Processing Systems (NeurIPS) 2021. [[Project]](https://github.com/allenai/container)
  
 - **Fast Convergence of DETR with Spatially Modulated Co-Attention**  
   **P. Gao**, M. Zhang, X. Wang, J. Dai, H. Li.  
-  International Conference on Computer Vision (ICCV), 2021. [[Project]]
+  International Conference on Computer Vision (ICCV), 2021. [[Project]](https://github.com/gaopengcuhk/SMCA-DETR)
 
 - **Multi-modality Latent Interaction Network for Visual Question Answering**  
-  P. Gao, X. Wang, Z. Zhang, X. Wang, **H. Li**  
+  **P. Gao**, X. Wang, Z. Zhang, X. Wang, H. Li.  
   *International Conference on Computer Vision (ICCV)*, 2019.
 
-
 - **Dynamic Fusion with Intra- and Inter-modality Attention Flow for Visual Question Answering**  
-  P. Gao, H. You, Z. Jiang, P. Lu, S. Hoi, X. Wang, **H. Li**  
+  **P. Gao**, H. You, Z. Jiang, P. Lu, S. Hoi, X. Wang, H. Li.  
   *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019 (oral presentation).
 
 - **Question-Guided Hybrid Convolution for Visual Question Answering**  
-  P. Gao, **H. Li**, S. Li, P. Lu, Y. Li, S. C. H. Hoi, X. Wang  
+  **P. Gao**, H. Li, S. Li, P. Lu, Y. Li, S. C. H. Hoi, X. Wang.  
   *European Conference on Computer Vision (ECCV)*, 2018.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
-
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2023). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>In Revision.</strong>
-
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
-
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
-
-
-- <strong>Peng Gao</strong>†*, Zhuo Le†, Chris Liu†, Junsong Chen†, Luo Xu†, Ruoyi Du†, Longtian Qiu†, Renrui Zhang, Yuhang Zhang, Junlin Xie, Wenqi Shao, Rongjie Huang, Enze Xie, Shijie Geng, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Hongsheng Li*, Qiao Yu*, Lumina-T2X: Transform Text into Any Modality, Res. and Duration via Flow-based Large Diffusion Transformer, [[Code]](https://github.com/Alpha-VLLM/Lumina-T2X)
