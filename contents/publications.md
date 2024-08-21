@@ -10,3 +10,6 @@
 
 - X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
 
+
+
+- [AIGCs\#1] \underline{Peng Gao}†*, Ziyi Lin†, Zhuo Le†, Chris Liu†, Junsong Chen†, Luo Xu†, Ruoyi Du†, Longtian Qiu†, Renrui Zhang, Yuhang Zhang, Junlin Xie, Wenqi Shao, Rongjie Huang, Enze Xie, Shijie Geng, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Hongsheng Li*, Qiao Yu*, ``{\sl Lumina-T2X: Transform Text into Any Modality, Res. and Duration via Flow-based Large Diffusion Transformer}'', Submit to NeurIPS 2024. \textbf{(2K GitHub stars)}.
