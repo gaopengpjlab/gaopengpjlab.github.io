@@ -1,8 +1,29 @@
 ### Selected Preprints
 
+
+- **Lumina-mGPT: Illuminate Flexible Photorealistic Text-to-Image Generation with Multimodal Generative Pretraining**
+  Dongyang Liu, Shitian Zhao, Zhuo Le, Weifeng Lin, Qiao Yu, Hongsheng Li, **Peng Gao**
+  arXiv:2408.02657, Technical Report, 2024. [[Project]](https://github.com/Alpha-VLLM/Lumina-mGPT)
+
+- **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**  
+  **P. Gao**, L. Zhuo, Z. Lin, C. Liu, J. Chen, R. Du, E. Xie, X. Luo, L. Qiu, Y. Zhang, C. Lin, R. Huang, S. Geng, R. Zhang, J. Xi, W. Shao, Z. Jiang, T. Yang, W. Ye, H. Tong, J. He, Y. Qiao, H. Li.  
+  arXiv:2405.05945, Technical Report, 2024. [[Project]](https://github.com/Alpha-VLLM/Lumina-T2X)
+
 - **Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT**  
   L. Zhuo, R. Du, H. Xiao, Y. Li, D. Liu, R. Huang, W. Liu, L. Zhao, F.-Y. Wang, Z. Ma, X. Luo, Z. Wang, K. Zhang, X. Zhu, S. Liu, X. Yue, D. Liu, W. Ouyang, Z. Liu, Y. Qiao, H. Li, **P. Gao**.  
-  arXiv:2406.18583, Technical Report, 2024. [Project](https://github.com/Alpha-VLLM/Lumina-T2X)
+  arXiv:2406.18583, Technical Report, 2024. [[Project]](https://github.com/Alpha-VLLM/Lumina-T2X)
+
+
+### Selected Publications
+
+
+
+
+
+
+
+
+
 
 
 
