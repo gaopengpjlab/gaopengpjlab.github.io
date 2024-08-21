@@ -12,4 +12,4 @@
 
 
 
-- [AIGCs\#1] \underline{Peng Gao}†*, Ziyi Lin†, Zhuo Le†, Chris Liu†, Junsong Chen†, Luo Xu†, Ruoyi Du†, Longtian Qiu†, Renrui Zhang, Yuhang Zhang, Junlin Xie, Wenqi Shao, Rongjie Huang, Enze Xie, Shijie Geng, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Hongsheng Li*, Qiao Yu*, ``{\sl Lumina-T2X: Transform Text into Any Modality, Res. and Duration via Flow-based Large Diffusion Transformer}'', Submit to NeurIPS 2024. \textbf{(2K GitHub stars)}.
+- <strong>Peng Gao</strong>†*, Zhuo Le†, Chris Liu†, Junsong Chen†, Luo Xu†, Ruoyi Du†, Longtian Qiu†, Renrui Zhang, Yuhang Zhang, Junlin Xie, Wenqi Shao, Rongjie Huang, Enze Xie, Shijie Geng, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Hongsheng Li*, Qiao Yu*, ``{\sl Lumina-T2X: Transform Text into Any Modality, Res. and Duration via Flow-based Large Diffusion Transformer}'', [[Code]]([https://github.com/senli1073/LNRL](https://github.com/Alpha-VLLM/Lumina-T2X))
