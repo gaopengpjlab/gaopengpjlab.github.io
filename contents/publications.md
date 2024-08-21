@@ -45,6 +45,27 @@
   **P. Gao**, M. Zhang, X. Wang, J. Dai, H. Li.  
   International Conference on Computer Vision (ICCV), 2021. [[Project]]
 
+- **Multi-modality Latent Interaction Network for Visual Question Answering**  
+  P. Gao, X. Wang, Z. Zhang, X. Wang, **H. Li**  
+  *International Conference on Computer Vision (ICCV)*, 2019.
+
+
+- **Dynamic Fusion with Intra- and Inter-modality Attention Flow for Visual Question Answering**  
+  P. Gao, H. You, Z. Jiang, P. Lu, S. Hoi, X. Wang, **H. Li**  
+  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2019 (oral presentation).
+
+- **Question-Guided Hybrid Convolution for Visual Question Answering**  
+  P. Gao, **H. Li**, S. Li, P. Lu, Y. Li, S. C. H. Hoi, X. Wang  
+  *European Conference on Computer Vision (ECCV)*, 2018.
+
+
+
+
+
+
+
+
+
 
 
 
