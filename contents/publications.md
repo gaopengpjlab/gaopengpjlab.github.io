@@ -1,8 +1,8 @@
 ### Selected Preprints
 
 - **Lumina-Next: Making Lumina-T2X Stronger and Faster with Next-DiT**  
-  L. Zhuo, R. Du, H. Xiao, Y. Li, D. Liu, R. Huang, W. Liu, L. Zhao, F.-Y. Wang, Z. Ma, X. Luo, Z. Wang, K. Zhang, X. Zhu, S. Liu, X. Yue, D. Liu, W. Ouyang, Z. Liu, Y. Qiao, **H. Li**, **P. Gao**.  
-  arXiv:2406.18583, Technical Report, 2024. [Project]
+  L. Zhuo, R. Du, H. Xiao, Y. Li, D. Liu, R. Huang, W. Liu, L. Zhao, F.-Y. Wang, Z. Ma, X. Luo, Z. Wang, K. Zhang, X. Zhu, S. Liu, X. Yue, D. Liu, W. Ouyang, Z. Liu, Y. Qiao, H. Li, **P. Gao**.  
+  arXiv:2406.18583, Technical Report, 2024. [Project](https://github.com/Alpha-VLLM/Lumina-T2X)
 
 
 
